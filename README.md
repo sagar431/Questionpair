@@ -59,3 +59,6 @@ This is a binary classification problem, where we need to predict whether a pair
 #### Performance Metric 
 
 The performance metric for this project is log loss, also known as logistic loss or cross-entropy loss. Log loss measures the uncertainty of the predicted probabilities for each instance by comparing them to the true class labels.
+## Screenshots
+
+![App Screenshot](https://github.com/sagar431/Questionpair/blob/main/Screenshot%20(14).png)
